@@ -1,0 +1,61 @@
+{
+  "version": "1",
+  "records": [
+    {
+      "hierarchy": {
+        "lvl1": "Getting started with the demo package"
+      },
+      "url": "/getting-started/",
+      "position": 0,
+      "type": "lvl1"
+    },
+    {
+      "hierarchy": {
+        "lvl1": "Getting started with the demo package",
+        "lvl2": "Install the package"
+      },
+      "url": "/getting-started/#install-the-package",
+      "position": 1,
+      "type": "lvl2"
+    },
+    {
+      "hierarchy": {
+        "lvl1": "Getting started with the demo package",
+        "lvl2": "Install the package"
+      },
+      "url": "/getting-started/#install-the-package",
+      "position": 2,
+      "type": "content",
+      "content": "Use npm to install the demo package before running the tutorial commands."
+    },
+    {
+      "hierarchy": {
+        "lvl1": "Running scheduled jobs",
+        "lvl2": "Checkpointing"
+      },
+      "url": "/scheduled-jobs/#checkpointing",
+      "position": 0,
+      "type": "lvl2"
+    },
+    {
+      "hierarchy": {
+        "lvl1": "Running scheduled jobs",
+        "lvl2": "Checkpointing"
+      },
+      "url": "/scheduled-jobs/#checkpointing",
+      "position": 2,
+      "type": "content",
+      "content": "Long scheduled jobs should use checkpointing so work can resume after an interruption."
+    },
+    {
+      "hierarchy": {
+        "lvl1": "Running scheduled jobs",
+        "lvl2": "Submitting a job"
+      },
+      "url": "/scheduled-jobs/#submitting-a-job",
+      "position": 1,
+      "type": "content",
+      "content": "Submit a scheduled job with the example CLI and request the resources your workflow needs."
+    }
+  ]
+}
